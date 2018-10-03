@@ -1,0 +1,32 @@
+body{
+	margin: 0%;
+}
+@media (min-height: 480px){
+.barra{
+	background-image: url('vio2.png');
+	text-align: center;
+	background-size: 100vh;
+	padding:5%;
+	margin-bottom: 3%;
+	clear: both;	
+
+}
+
+.contenedor_columnas{
+	width: 100%;
+	margin: auto;
+}
+
+.columna{
+	width: 33%;
+	float: left;
+	padding: 20px 20px;
+	box-sizing: border-box;
+}
+
+.columna img{
+	width: 100%;
+
+}
+
+}
